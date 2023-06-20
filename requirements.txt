@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+spacy
+jupyter
+Python-rake
+rake-nltk
